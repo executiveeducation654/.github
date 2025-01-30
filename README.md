@@ -24,26 +24,26 @@ Autumn: November, October and December.
 Question: What is so special about the executive education institute?
 Answer: The Executive education institute is a top-ranking institution offering best in class  program CEO and C-Level courses for government, business and investment executives.
 Question: What is the institute most famous for?
-Answer: The institute is famous for its independent think tank. While all Nobel Economists & Most of Wall Street Strategist missed the great financial crisis (GFC) of 2008. In 2006 the institute published a paper warning about risks of the housing bubble and contagion of the financial markets. In 2007 the President of the Institute, <a href="https://www.medjones.com/ ">Med Jones</a>, warned in a Reuters interview of the loss of confidence in the economy and sell-off of the stock markets due to the subprime mortgages.
+Answer: The institute is famous for its independent think tank. While all Nobel Economists & Most of Wall Street Strategist missed the great financial crisis (GFC) of 2008. In 2006 the institute published a paper warning about risks of the housing bubble and contagion of the financial markets. In 2007 the President of the Institute, Med Jones, warned in a Reuters interview of the loss of confidence in the economy and sell-off of the stock markets due to the subprime mortgages.
 In 2008, Harvard University endowment lost $11-$26 billion, while Yale University lost $7-$16 billion, the damage to the reputation of their economics and finance education was widespread. In contrast, the executive education institute saved its treasury and helped clients avoid a major loss of capital. Additionally, from 2020-2024 the most uncertain times during COVID & Inflation waves of bear-bull-bear-bull cycles, the institute investment fund outperformed 99% of large hedge funds.
 What?
 Question: What are the top executive courses sought after by C-Level executives?
 Answer: All of the C-level executive courses are offered, including such as the CEOs, CIO, CFO, CMO, COO, CTO, CSO, CL) and CHRO and senior executive teams.
- <a href="https://www.iim.education/investment-seminars/strategic-investment-management-course/index.htm ">CIO Strategic Investment Management Course</a> 
- <a href="https://www.iim.education/executive-programs/ceo-performance-course/index.htm ">CEO Performance Courses</a> 
-<a href="https://www.iim.education/executive-seminars/business-strategy-seminar/index.htm ">CEO Business Strategy Seminars</a> 
-<a href="https://www.iim.education/executive-seminars/marketing-management-seminar/index.htm ">CMO Strategic Marketing Seminars</a> 
-<a href="https://www.iim.education/executive-programs/strategic-hr-management-program/index.htm ">CHRO Strategic Human Resources Seminars</a> 
-<a href="https://www.iim.education/investment-seminars/corporate-finance-program/index.htm ">CFO Corporate Finance Program</a> 
-<a href="https://www.iim.education/executive-seminars/operations-management-seminar/index.htm ">COO Operations Management Seminars</a> 
-<a href="https://www.iim.education/executive-seminars/management-information-systems-seminar/index.htm ">CTO / CIO Information Management System Seminars</a> 
+ CIO Strategic Investment Management Course
+ CEO Performance Courses
+CEO Business Strategy Seminars
+CMO Strategic Marketing Seminars
+CHRO Strategic Human Resources Seminars
+CFO Corporate Finance Program
+COO Operations Management Seminars
+CTO / CIO Information Management System Seminars
  
  How?
 Question: How are the executive courses delivered?
 Answer:  All courses are delivered in-classroom (in-person), some courses are delivered via one-to one coaching and maybe offered remotely (distance learning) via zoom and while others are offered via hybrid in-person and distance learning
 Why?
-Why are the <a href="https://www.iim.education/index.htm ">Executive Education Institute</a>’s  executive courses highly rated?
-Answer: Top Ten Reasons Why Executive Clients Choose the Institute
+Why are the Executive Education Institute’s  executive courses highly rated?
+Answer: Top Ten Reasons Why Executive Clients Choose the institute
 1. Global Networking and Development
 Successful organizations and professionals distinguish themselves by investing in their intellectual capital and network relationships. They associate with and learn from other experts in their fields. Our clients receive a free membership to the global CEO Club or the Executive Society. The membership offers access to a global forum for professional networking and business development with over 10,000 senior executives and managers from the global Fortune 500 and other reputable companies.
  
@@ -66,10 +66,21 @@ With the advent of globalization, rapid technology advances and a continually ch
 10. Multinational Collective Intelligence
 The Institute research and education network consists of about 55 universities and organizations from 40 countries. We leverage this strong multinational network to provide the clients with a global perspective and leading advice. 
 Additional Resources & Reference:
-<a href="https://www.iim.education/executive-education-calendar/ ">Executive Education Courses and Programs in the USA, Canada and Europe in January, February, March, April, May, June, July, August, September, October, November, and December.</a> 
+Executive Education Courses and Programs in the USA, Canada and Europe in January, February, March, April, May, June, July, August, September, October, November, and December.
 
 
 
 
 
+ID fname & lname: Executive x Education, Calendar, Best Executive, Seminar, USA, Canada, Europe, Top Executive, Programs, Government, Business, Investment, CEO,
+Government CEO, Business CEO, Investment CEO, CIO, .....
+USA CEO, Canada, CEO
+....
+American Executive
+European Executive
+Italian Executive
+USA Manager
+Canada Manager
+HR manager
+finance Managers
 
